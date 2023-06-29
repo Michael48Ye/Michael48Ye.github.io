@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(#3582c4, #008a20);
+}
+h1 {
+    text-align: center;
+}
+a:hover {
+    color: #d63648;
+}
+a:active {
+    color: #FF00FF;
+}
